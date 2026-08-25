@@ -3,7 +3,7 @@ name: Deploy NestJS
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
